@@ -35,6 +35,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   font: 300 18px/22px "Ruluko", sans-serif;
+  height: 100%;
 }
 
 /* Typography */
