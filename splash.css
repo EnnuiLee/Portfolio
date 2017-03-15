@@ -1,0 +1,88 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Button Main Style */
+
+.button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  margin-top: 10px;
+}
+.button:hover,
+.button:active {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Basic */
+body {
+  color: #000;
+  background: #fff url(img/bg.jpg) no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+  font: 300 18px/22px "Ruluko", sans-serif;
+}
+
+/* Typography */
+h1, h2 {
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 300;
+}
+h1 {
+  font-size: 54px;
+  line-height: 65px;
+  letter-spacing: 0.1em;
+}
+h2 {
+  margin: 40px auto 10px auto;
+  font-size: 27px;
+  line-height: 33px;
+}
+
+/* Layout */
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 50px auto 50px auto;
+  margin-top: 60vh;
+  text-align: center;
+  color: #fff;
+}
+
+/* Media Queries */
+@media (max-width: 420px) {
+  h1 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  h2 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 1024px)
+body, html {
+/* height: 100%!important; */
+overflow: auto!important;
+max-height: 100% !important;
+}
