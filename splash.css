@@ -31,12 +31,10 @@
 /* Basic */
 body {
   color: #000;
-  background: #000 url(img/bg.jpg) no-repeat center center;
+  background: #fff url(img/bg.jpg) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   font: 300 18px/22px "Ruluko", sans-serif;
-  height: 100%;
-  overflow: hidden;
 }
 
 /* Typography */
