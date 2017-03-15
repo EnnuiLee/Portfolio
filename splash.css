@@ -34,6 +34,7 @@ body {
   background: #fff url(img/bg.jpg) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
+  min-height: 100%;
   font: 300 18px/22px "Ruluko", sans-serif;
 }
 
