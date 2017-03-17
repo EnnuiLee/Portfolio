@@ -40,10 +40,6 @@ body {
   font: 300 18px/22px "Ruluko", sans-serif;
 }
 
-html {
-  height: 100%;
-}
-
 /* Typography */
 h1, h2 {
   text-transform: uppercase;
