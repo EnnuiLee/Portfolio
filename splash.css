@@ -41,8 +41,8 @@ body {
   font: 300 18px/22px "Ruluko", sans-serif;
 }
 
-html {
-  height: 100%:
+html, body, .container {
+  height: 100%;
 }
 
 /* Typography */
