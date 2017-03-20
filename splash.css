@@ -9,3 +9,8 @@ body {
   -o-background-size: cover;
   background-color:#464646;
 }
+
+html, body {
+    /* give this to all tags from html to .fullscreen */
+    height:100%
+}
