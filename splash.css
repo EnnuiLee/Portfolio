@@ -42,15 +42,6 @@ html, body {
   color: #000;
 }
 
-/* Basic */
-body {
-  color: #000;
-  background: #fff url(img/bg.jpg) no-repeat center center;
-  background-attachment: fixed;
-  background-size: cover;
-  font: 300 18px/22px "Ruluko", sans-serif;
-}
-
 /* Typography */
 h1, h2 {
   text-transform: uppercase;
