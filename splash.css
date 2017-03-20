@@ -1,6 +1,6 @@
 body {
   color: #000;
-  background: #fff url(img/bg.jpg) no-repeat center center;
+  background: #000 url(img/bg.jpg) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   font: 300 18px/22px "Ruluko", sans-serif;
@@ -8,6 +8,6 @@ body {
 
 html, body {
     /* give this to all tags from html to .fullscreen */
-    height:100vh;
+    height:100%;
     overflow:hidden;  
 }
