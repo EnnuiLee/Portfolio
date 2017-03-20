@@ -8,26 +8,6 @@
   vertical-align: baseline;
 }
 
-/* Button Main Style */
-
-.button {
-  display: inline-block;
-  width: 200px;
-  padding: 8px;
-  color: #fff;
-  border: 1px solid #fff;
-  border-radius: 5px;
-  text-align: center;
-  outline: none;
-  text-decoration: none;
-  margin-top: 10px;
-}
-.button:hover,
-.button:active {
-  background-color: #fff;
-  color: #000;
-}
-
 /* Basic */
 body {
   color: #000;
@@ -59,7 +39,6 @@ h2 {
   width: 90%;
   max-width: 960px;
   margin: 50px auto 50px auto;
-  margin-top: 60vh;
   text-align: center;
   color: #000;
 }
