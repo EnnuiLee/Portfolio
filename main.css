@@ -70,7 +70,7 @@ h2 {
 .my-gallery figure {
   display: inline-block;
   margin: 0 1% 1% 0;
-  width: 32%;
+  width: 31%;
 }
 .my-gallery figcaption {
   display: none;
