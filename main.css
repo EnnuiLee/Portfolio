@@ -71,8 +71,8 @@ h2 {
 .my-gallery figure {
   display: block;
   float: left;
-  margin: 0 5px 5px 0;
-  width: 150px;
+  margin: 0 1% 1% 0;
+  width: 32.33%;
 }
 .my-gallery figcaption {
   display: none;
